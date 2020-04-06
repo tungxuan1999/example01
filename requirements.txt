@@ -1,6 +1,3 @@
 web.py
 gunicorn
-flask
-Jinja2
-Werkzeug
 
